@@ -11,4 +11,4 @@
 3. ```Input```This has been a pretty good day so long.
   - ```Output``` :smile:
 4. - ```Input``` The teacher was disappointed at him after his rude behaviour.
- - ```Ouput``` "disappointed:
+ - ```Ouput``` :disappointed:
