@@ -4,4 +4,5 @@
 - Used **LSTM** and pretrained 50 dimensional embedding layer for the model.
 
 ### Example
-- ``` Input ``` Time for dinner . ```Output``` :fork_and_knife:
+1. - ``` Input ``` Time for dinner.
+ - ```Output``` :fork_and_knife:
